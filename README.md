@@ -1,5 +1,5 @@
 # ADS-LOGICA
-Este repositório contém algumas atividades e desafios desenvolvidos durante o módulo 1 do curso de Análise e Desenvolvimento de Sistemas. 
+Este repositório contém algumas atividades, provas e desafios desenvolvidos durante o módulo 1 do curso de Análise e Desenvolvimento de Sistemas. 
 O que é a disciplina de lógica de programação?
 
 A disciplina de lógica de programação tem como função principal ensinar os conceitos fundamentais da programação de computadores. Ela é essencial para qualquer pessoa que queira se tornar um programador, pois ensina os princípios básicos para a criação de algoritmos, que são a base para a construção de programas de computador.
