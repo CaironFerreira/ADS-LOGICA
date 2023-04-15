@@ -1,6 +1,7 @@
 programa
 {
 	//Conversor de decimal para binário
+	//Co-autor Jefté Fontes
 	funcao inicio()
 	{
 		inteiro decimal=0, decimalAux=0, contResto=0, potencia=1
@@ -36,9 +37,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 541; 
+ * @POSICAO-CURSOR = 72; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {decimalAux, 6, 21, 10};
+ * @SIMBOLOS-INSPECIONADOS = {decimalAux, 7, 21, 10};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
